@@ -17,6 +17,30 @@ BaileysPro doesn't require Selenium or any other browser to interact with WhatsA
 
 The original repository had to be removed by the original author - we are now continuing development of this repository here. This is one of the modification repositories and is maintained by Indraazy.
 
+## Example
+
+Here is an example you can use: [example.ts](Example/example.ts) or here is a tutorial for running the Baileys WhatsApp API code
+1. ``` cd path/to/Baileys ```
+2. ``` npm install```
+3. ``` node example.js```
+
+## Install
+
+Use the stable version:
+```bash
+npm install @vynzzdev/vynzzmd-baileys
+```
+
+Use the edge version (no guarantee of stability, but latest fixes + features)
+```bash
+yarn add @vynzzdev/vynzzmd-baileys
+```
+
+Then import your code using:
+```javascript
+const { default: makeWASocket } = require("@vynzzdev/vynzzmd-baileys")
+```
+
 
 # Index
 
