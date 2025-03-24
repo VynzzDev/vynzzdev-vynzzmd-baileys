@@ -1,6 +1,6 @@
 {
   "name": "@vynzzdev/vynzzmd-baileys",
-  "version": "4.0.9",
+  "version": "4.1.1",
   "description": "WhatsApp API recode by VynzzDev",
   "keywords": [
     "whatsapp",
@@ -16,7 +16,7 @@
   ],
   "homepage": "https://vynzzdev.my.id",
   "repository": {
-    "url": "https://github.com/VynzzDev/vynzzdev-vynzzmd-baileys.git"
+    "url": "https://github.com/VynzzDev/vynzzmd-baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
