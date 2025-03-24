@@ -1,11 +1,14 @@
 # @vynzzdev/vynzzmd-baileys - Typescript/Javascript WhatsApp Web API
 
+![NPM Downloads](https://img.shields.io/npm/dw/%40vynzzdev%2Fvynzzmd-baileys?label=npm&color=%23CB3837)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/VynzzDev/vynzzmd-baileys)
+
 ### INFORMATION !! 
 This Baileys has been modified by Vynzz. Don't use it for illegal activities or to harm other people. 
 
 ### Important Note
 
-This library was originally a project of *@whiskeysockets/baileys* and is in no way affiliated with or endorsed by WhatsApp. Use at your own discretion. Don't spam others with this. We do not encourage the use of stalking, mass or automated messaging.
+This library was originally a project of *@whiskeysockets/baileys* (now baileys) and is in no way affiliated with or endorsed by WhatsApp. Use at your own discretion. Don't spam others with this. We do not encourage the use of stalking, mass or automated messaging.
 
 #### Liability and License Notice
 Indraazy and its managers are not responsible for misuse of this application, as stated in the MIT license. Indraazy management in no way condones the use of this application in practices that violate the WhatsApp Terms of Service. The manager of this application holds its users personally responsible for using this application in a fair manner, as it is intended to be used.
